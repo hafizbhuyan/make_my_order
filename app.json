@@ -1,0 +1,8 @@
+{
+  "name": "MakeMyOrder",
+  "displayName": "MakeMyOrder",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-6787584587323314~5968447638",
+    "ios_app_id": "ca-app-pub-6787584587323314~4655365969"
+  }
+}
